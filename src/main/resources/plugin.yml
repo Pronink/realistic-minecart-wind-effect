@@ -1,0 +1,5 @@
+name: realistic-minecart-wind-effect
+version: 1.0
+author: Pronink
+main: pronink.main.Main
+api-version: 1.13
