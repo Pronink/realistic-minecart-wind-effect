@@ -6,6 +6,10 @@ Listen to it with headphones or on a stereo system and feel the sound of the win
 
 [![Youtube video](http://img.youtube.com/vi/Dx4DSdrvuP8/0.jpg)](http://www.youtube.com/watch?v=Dx4DSdrvuP8 "Youtube video")
 
+[Youtube link](http://www.youtube.com/watch?v=Dx4DSdrvuP8)
+
+[Spigot plugin resource](https://www.spigotmc.org/resources/realistic-minecart-wind-effect.113464/)
+
 ## Compile plugin project 🚀
 - Install Git, Java 17 and Maven
 - Clone this repository
