@@ -1,15 +1,10 @@
 # Realistic minecart wind effect
 
-Experience the immersive sensation of wind rushing past as you travel in a minecart.
+A straightforward plugin that introduces realistic stereo wind sound effects as you journey in a minecart.
 
-As you ride along the tracks, you'll hear the distinct sound of the wind, 
-complete with variations in intensity based on your speed and surrounding environment.
+Listen to it with headphones or on a stereo system and feel the sound of the wind as you pass by the blocks to the right and left:
 
-## Key Features:
-
-- Realistic wind sound effects in stereo, surrounding you with an immersive audio experience.
-- Dynamic intensity adjustments as you travel, creating a sense of speed and environmental interaction.
-- Elevate your gameplay with unparalleled realism and ambiance.
+[![Youtube video](http://img.youtube.com/vi/Dx4DSdrvuP8/0.jpg)](http://www.youtube.com/watch?v=Dx4DSdrvuP8 "Youtube video")
 
 ## Compile plugin project 🚀
 - Install Git, Java 17 and Maven
